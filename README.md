@@ -1,2 +1,2 @@
 # Browser 
-A browser by the memebers of innovation club
+A browser by the members of innovation club
