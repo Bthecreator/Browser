@@ -46,7 +46,7 @@ class MainWindow(QMainWindow):
         navbar.addAction(home_btn)
 
     def nav_home(self):
-        self.browser.setUrl(QUrl('http://google.com'))
+        self.browser.setUrl(QUrl('http://duck.com'))
    
     def navigate_to_url(self):
         url = self.url_bar.text()
